@@ -16,8 +16,8 @@
 
 ### Identitas
 
-Nama    : Karina Widhia N.
-Kelas   : XI RPL 1
-No      : 15
-NIS     : 4733/1452.070
-Sekolah : SMK Telkom Malang
+###### Nama    : Karina Widhia N.
+###### Kelas   : XI RPL 1
+###### No      : 15
+###### NIS     : 4733/1452.070
+###### Sekolah : SMK Telkom Malang
